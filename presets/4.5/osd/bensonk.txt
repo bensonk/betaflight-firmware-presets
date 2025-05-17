@@ -3,7 +3,7 @@
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
-#$ KEYWORDS: OSD, TBS, TBS Core, GPS, navigation
+#$ KEYWORDS: OSD, TBS, TBS Core, GPS, navigation, longrange, mountain surfing, MtnSurf
 #$ AUTHOR: bensonk
 
 #$ DESCRIPTION: I lay out my OSD the same way on every rig, so I always know where to find things. Perhaps my layout will make sense to you too! This configuration is based on the layout of the TBS Core Pro OSD, which I used before betaflight had OSD support.

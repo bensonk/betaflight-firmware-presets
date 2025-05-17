@@ -433,6 +433,7 @@
       "log",
       "logging",
       "Long Range",
+      "longrange",
       "loRanger",
       "lr5",
       "mamba",
@@ -444,12 +445,14 @@
       "MM",
       "mode",
       "modes",
+      "mountain surfing",
       "mouse fpv",
       "mr nice",
       "mrnice",
       "msp",
       "MSP VTX",
       "msp-osd",
+      "MtnSurf",
       "Multi",
       "MultiGP",
       "MultiVoltage",
@@ -526,6 +529,7 @@
       "Smart",
       "smart audio",
       "smartaudio",
+      "smooth",
       "smoothing",
       "snappy",
       "Solid250",
@@ -6505,7 +6509,7 @@
     },
     {
       "fullPath": "presets/4.5/osd/bensonk.txt",
-      "hash": "f90ab5fc49b1db6b1a797230510769b51a03aac22229ed7d67813e8400c76b5e",
+      "hash": "d765581e1db0fc1853516f0a5b6d8434b7f8a34d14d1901f7bec99d7536bde46",
       "title": "bensonk standard OSD config",
       "firmware_version": [
         "4.5",
@@ -6518,7 +6522,10 @@
         "TBS",
         "TBS Core",
         "GPS",
-        "navigation"
+        "navigation",
+        "longrange",
+        "mountain surfing",
+        "MtnSurf"
       ],
       "author": "bensonk",
       "priority": 0
@@ -6755,6 +6762,26 @@
         "sugarK"
       ],
       "author": "ZoeFPV",
+      "priority": 10000
+    },
+    {
+      "fullPath": "presets/4.5/rates/bensonk-rates.txt",
+      "hash": "0e5f11471aea0fcf1d9ef0e179209593a51a6e5300e86453f2bb45ade86123c9",
+      "title": "bensonk - Standard Tune for BARD Lo",
+      "firmware_version": [
+        "4.5",
+        "4.5"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "Cinematic",
+        "smooth",
+        "longrange",
+        "mountain surfing",
+        "MtnSurf"
+      ],
+      "author": "bensonk",
       "priority": 10000
     },
     {
@@ -7279,7 +7306,7 @@
     },
     {
       "fullPath": "presets/4.5/tune/bensonk-bard-lo.txt",
-      "hash": "6fc778d88f884f8dc6216299d34afd1c3df0891f6c9d49f124a92683ff5fbe5f",
+      "hash": "02f5c1b458908e05c548318c4900247e31f5eae34961b55bdf8725c6940b58f6",
       "title": "bensonk - Standard Tune for BARD Lo",
       "firmware_version": [
         "4.5",

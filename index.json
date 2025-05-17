@@ -6599,16 +6599,16 @@
     },
     {
       "fullPath": "presets/4.5/other/bensonk-switches.txt",
-      "hash": "3eb9438a8f6e37fed7138e7c1a7e123304042f06f57c6e0215a2d611d66ffc36",
+      "hash": "0a99038ef2d20acc5d9dcb396729458c69098fdfda16bab1b5fc95beea35d681",
       "title": "bensonk - Standard switch settings",
       "firmware_version": [
         "4.5",
         "4.5"
       ],
-      "category": "TUNE",
+      "category": "OTHER",
       "status": "COMMUNITY",
       "author": "bensonk",
-      "priority": 1000000000000
+      "priority": 0
     },
     {
       "fullPath": "presets/4.5/other/custom_nmea.txt",
@@ -7279,14 +7279,14 @@
     },
     {
       "fullPath": "presets/4.5/tune/bensonk-bard-lo.txt",
-      "hash": "d71374d9c8e92ab7b635310be6307a9a033ed22bde8fffd63ea6fab16bdfb091",
+      "hash": "6fc778d88f884f8dc6216299d34afd1c3df0891f6c9d49f124a92683ff5fbe5f",
       "title": "bensonk - Standard Tune for BARD Lo",
       "firmware_version": [
         "4.5",
         "4.5"
       ],
       "category": "TUNE",
-      "status": "OFFICIAL",
+      "status": "COMMUNITY",
       "keywords": [
         "5\"",
         "5in",

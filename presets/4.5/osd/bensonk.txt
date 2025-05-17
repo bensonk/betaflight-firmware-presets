@@ -3,14 +3,13 @@
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
-#$ KEYWORDS: OSD, GPS, navigation
+#$ KEYWORDS: OSD, TBS, TBS Core, GPS, navigation
 #$ AUTHOR: bensonk
 
 #$ DESCRIPTION: I lay out my OSD the same way on every rig, so I always know where to find things. Perhaps my layout will make sense to you too! This configuration is based on the layout of the TBS Core Pro OSD, which I used before betaflight had OSD support.
 
-#$ TOOD(bensonk): figure out proper conditionals
-
 # Analog
+
 set osd_units = METRIC
 set osd_warn_bitmask = 24575
 set osd_rssi_alarm = 20

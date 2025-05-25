@@ -1,11 +1,12 @@
 #$ TITLE: bensonk - Standard switch settings
 #$ FIRMWARE_VERSION: 4.5
-#$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OTHER
 #$ STATUS: COMMUNITY
 #$ AUTHOR: bensonk
 
-#$ DESCRIPTION: Standard controller switch settings that bensonk uses
+#$ DESCRIPTION: Standard controller channel settings used by bensonk
+
+# aux
 
 aux 0 0 1 1950 2100 0 0
 aux 1 1 0 1300 2100 0 0
@@ -27,7 +28,9 @@ aux 16 0 0 900 900 0 0
 aux 17 0 0 900 900 0 0
 aux 18 0 0 900 900 0 0
 aux 19 0 0 900 900 0 0
+
 # adjrange
+
 adjrange 0 0 0 900 900 0 0 0 0
 adjrange 1 0 0 900 900 0 0 0 0
 adjrange 2 0 0 900 900 0 0 0 0

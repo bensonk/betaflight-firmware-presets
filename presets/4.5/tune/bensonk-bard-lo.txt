@@ -1,6 +1,5 @@
 #$ TITLE: bensonk - Standard Tune for BARD Lo
 #$ FIRMWARE_VERSION: 4.5
-#$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: TUNE
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: 5", 5in, BARD, BARD Lo
@@ -9,6 +8,8 @@
 #$ DESCRIPTION: Base tune for an ultralight 5", tuned on the BARD Lo running 2004 1950kV motors and a 5x2x3 prop.
 
 #$ WARNING: This tune was designed for a very clean build. When you flash it, be sure it arms cleanly and check motor temps before you send it.
+
+#$ INCLUDE: presets/4.5/tune/defaults.txt
 
 # -- PID Settings --
 

@@ -138,7 +138,7 @@ set osd_displayport_device = AUTO
 set osd_canvas_width = 30
 set osd_canvas_height = 15
 
-#$ OPTION BEGIN (UNCHECKED): BrainFPV FC
+#$ OPTION BEGIN (CHECKED): BrainFPV FC
     # -- ADDER: For quads using an OSD with BrainFPV extensions --
     set brainfpv_osd_sync_thresh_mode = 1
     set brainfpv_osd_sync_thresh = 150
